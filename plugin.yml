@@ -1,0 +1,21 @@
+name: LockPick
+version: 1.0
+api-version: 1.13
+main: me.iangry.lockpick.Main
+author: iAngry
+description: A lock picking plugin
+commands:
+  LockPick:
+    description: Control LichUtils
+    usage: /<command> <args>
+    aliases: [lockpicker, lockpicks, lockpicking]
+permissions:
+  lockpick.pick:
+    description: Be able to pick locks
+    default: op
+  lockpick.give:
+    description: Be able to spawn picks
+    default: op
+  lockpick.reload:
+    description: Reload the config
+    default: op

@@ -1,0 +1,5 @@
+lock-pick-item: TRIPWIRE_HOOK
+lock-broken-message: '&2%player% &aYou have broken a lock'
+lock-pick-name: '&6&lLock Pick'
+lock-pick-lore: '&cYou can pick locked doors and chests with this'
+lock-sign: '[Private]'
